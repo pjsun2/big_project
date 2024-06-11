@@ -33,7 +33,7 @@ from res import reshome
 
 def main():
     with st.sidebar:
-        st.image(r"C:\Users\parkj\Desktop\13W\자산 2.png")
+        st.image(r"자산 2.png")
         st.markdown("""
                     20221670 | 박재선
                     """)
