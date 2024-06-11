@@ -26,7 +26,7 @@ def subhome() :
                 목적 : 불법주차 근절을 위해 '전국 주차면수'와 '시도별 차량등록' 데이터를 대조해  
                 불법주차를 미리 예측, 예방 하는 것이 목적이다
                 """) # see #*
-    st.image(r"C:\Users\parkj\Desktop\13W\parking.jpg")
+    st.image(r"parking.jpg")
     st.caption("전성필, 2021, '소방차 막은 불법주차, 2년10개월 만에 첫 강제처분', 국민일보")
     st.markdown('---')
     st.title('2.목차')
