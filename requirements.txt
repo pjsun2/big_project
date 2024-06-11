@@ -1,0 +1,6 @@
+holidays==0.24
+geopandas
+streamlit-option-menu
+streamlit
+matplotlib
+pandas
