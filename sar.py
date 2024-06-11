@@ -50,7 +50,7 @@ def data():
                 1차분류 '시도명' 2차분류 '시군구'까지 전국을 대상으로 조사
                 - 24년 4월기준 전국적 자동차 등록 대수는 '26,070,358'임을 확인할 수 있다.
                 """)
-    st.image(r"C:\Users\parkj\Desktop\13W\자동차등록대수현황.png"'')
+    st.image(r"자동차등록대수현황.png"'')
     st.caption("통계청, 2011~2024, '자동차등록대수현황 시도별'")
     st.markdown('---')
     st.subheader('2.서울시 주차장+확보율')
@@ -70,4 +70,4 @@ def datasar():
                 확인 가능하다면 원인을 분석하고  
                 주차장 추가 설립 등 정책적으로 사용이 가능한 근거가 될 수 있지 않을까?
                 """)
-    st.image(r"C:\Users\parkj\Desktop\13W\비교자료.png")
+    st.image(r"비교자료.png")
