@@ -57,7 +57,7 @@ def data():
     st.markdown("""
                 - 23년 기준 '주차면수'를 확인할 수 있다.
                 """)
-    st.image(r"C:\Users\parkj\Desktop\13W\주차장+확보율.png")
+    st.image(r"주차장+확보율.png")
     st.caption("김지연, 2011~2023, '서울시 주차장 확보율 통계', 통계청")
 
 def datasar():
